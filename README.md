@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👩‍💻 Léa Giron - Développeuse en herbe ❤️</h1>
+  <h1>❤️ Léa Giron - Développeuse en herbe ❤️</h1>
   <p>
     Étudiante en BTS SIO Option SLAM | Passionnée par le code et la création d’expériences numériques modernes.
   </p>
@@ -9,22 +9,22 @@
 ---
 
 ## 🩷 À propos de moi :
-🗓️ **Age :** 21 ans
-💡 **Formation actuelle :** BTS SIO (Option SLAM) à Nancy.  
-🌍 **Objectifs :** Obtenir un master en informatique, créer des projets innovants et inspirants.  
-💼 **En alternance :** Informagicienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
-🛠️ **Compétences techniques :**
-  - **Langages :** HTML, CSS, PHP, MySQL
+- 🗓️ **Age :** 21 ans
+- 💡 **Formation actuelle :** BTS SIO (Option SLAM) à Nancy.  
+- 🌍 **Objectifs :** Obtenir un bachelor en concepteur développeur d'applications et un master dans ce domaine, créer et participer à des projets innovants.  
+- 💼 **En alternance :** Informagicienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
+- 🛠️ **Compétences techniques :**
+  - **Langages :** HTML, CSS, PHP, MySQL, JavaScript
   - **Technologies :** Docker, Kali Linux, Alfresco
-  - **Outils :** Git, phpMyAdmin, VS Code  
-🎯 **Focus actuel :** Frontend design moderne et backend robuste.  
+  - **Outils :** Git, phpMyAdmin, VS Code, VirtualBox
+- 🎯 **Focus actuel :** Frontend design moderne et backend robuste.  
 
 ---
 
 ## 🌟 Mes projets récents :
 | Projet | Description | Liens |
 |--------|-------------|-------|
-| **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/lea-giron/portfolio) |
+| **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/Leaaaa55/portfolio_lea_giron.github.io) |
 | **Configuration Alfresco** | Projet Docker pour une gestion documentaire sécurisée. | [Lien vers le dépôt](https://github.com/lea-giron/alfresco-docker) |
 | **Site Gymnastique** | Organisation de compétitions avec un modèle de données clair. | [Lien vers le dépôt](https://github.com/lea-giron/gymnastique) |
 
