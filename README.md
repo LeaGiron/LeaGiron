@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👩‍💻 Léa Giron - Développeuse en herbe 🌱</h1>
+  <h1>👩‍💻 Léa Giron - Développeuse en herbe ❤️</h1>
   <p>
     Étudiante en BTS SIO Option SLAM | Passionnée par le code et la création d’expériences numériques modernes.
   </p>
@@ -8,7 +8,8 @@
 
 ---
 
-## 🚀 À propos de moi :
+## 🩷 À propos de moi :
+- 🗓️ **Age :** 21 ans
 - 💡 **Formation actuelle :** BTS SIO (Option SLAM) à Nancy.  
 - 🌍 **Objectifs :** Obtenir un master en informatique, créer des projets innovants et inspirants.  
 - 💼 **En alternance :** Informagicienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
@@ -24,7 +25,7 @@
 | Projet | Description | Liens |
 |--------|-------------|-------|
 | **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/lea-giron/portfolio) |
-| **Configuration Alfresco** | Projet Docker pour une plateforme collaborative sécurisée. | [Lien vers le dépôt](https://github.com/lea-giron/alfresco-docker) |
+| **Configuration Alfresco** | Projet Docker pour une gestion documentaire sécurisée. | [Lien vers le dépôt](https://github.com/lea-giron/alfresco-docker) |
 | **Site Gymnastique** | Organisation de compétitions avec un modèle de données clair. | [Lien vers le dépôt](https://github.com/lea-giron/gymnastique) |
 
 ---
@@ -32,7 +33,6 @@
 ## 📊 Statistiques GitHub :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leaaaa55&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=Leaaaa55&theme=dracula&hide_border=true" alt="GitHub Streak Stats" width="400"/>
 </div>
 
 
