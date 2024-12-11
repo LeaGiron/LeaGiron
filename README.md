@@ -32,8 +32,9 @@
 ## 📊 Statistiques GitHub :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leaaaa55&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leaaaa55&theme=dracula" alt="GitHub Streak" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=Leaaaa55&theme=dracula&hide_border=true" alt="GitHub Streak Stats" width="400"/>
 </div>
+
 
 ---
 
