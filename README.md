@@ -31,14 +31,14 @@
 
 ## 📊 Statistiques GitHub :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lea-giron&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lea-giron&theme=dracula" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leaaaa55&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leaaaa55&theme=dracula" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
 
 ## ✨ Let's connect :
 <p align="center">
-  <a href="mailto:lea.giron@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/lea-giron"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:giron.lea@outlook.fr"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/léa-giron-866872227/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
