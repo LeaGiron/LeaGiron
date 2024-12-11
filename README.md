@@ -9,15 +9,15 @@
 ---
 
 ## 🩷 À propos de moi :
-- 🗓️ **Age :** 21 ans
-- 💡 **Formation actuelle :** BTS SIO (Option SLAM) à Nancy.  
-- 🌍 **Objectifs :** Obtenir un master en informatique, créer des projets innovants et inspirants.  
-- 💼 **En alternance :** Informagicienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
-- 🛠️ **Compétences techniques :**
+🗓️ **Age :** 21 ans
+💡 **Formation actuelle :** BTS SIO (Option SLAM) à Nancy.  
+🌍 **Objectifs :** Obtenir un master en informatique, créer des projets innovants et inspirants.  
+💼 **En alternance :** Informagicienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
+🛠️ **Compétences techniques :**
   - **Langages :** HTML, CSS, PHP, MySQL
   - **Technologies :** Docker, Kali Linux, Alfresco
   - **Outils :** Git, phpMyAdmin, VS Code  
-- 🎯 **Focus actuel :** Frontend design moderne et backend robuste.  
+🎯 **Focus actuel :** Frontend design moderne et backend robuste.  
 
 ---
 
