@@ -33,6 +33,7 @@
 ## 📊 Statistiques GitHub :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leaaaa55&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leaaaa55&layout=compact)](https://github.com/Leaaaa55)
 </div>
 
 
