@@ -31,6 +31,19 @@
 
 ---
 
+# Compétences
+
+**HTML**  
+💗💗💗💗💗💗💗💗⬜⬜ 80%  
+
+**CSS**  
+💗💗💗💗💗💗💗💗⬜⬜ 80%  
+
+**JavaScript**  
+💗💗⬜⬜⬜⬜⬜⬜⬜⬜ 20%   
+
+---
+
 ## 📊 Mes statistiques GitHub :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leaaaa55&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
