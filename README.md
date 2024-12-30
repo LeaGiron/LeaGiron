@@ -31,10 +31,8 @@
 ## 💖 Mes projets récents :
 | 🌸 Projet | ✨ Description | 🔗 Liens |
 |--------|-------------|-------|
-| **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/Leaaaa55/Leaaaa55.github.io) |
-| **Configuration Alfresco** | Projet Docker pour une gestion documentaire sécurisée. | [Lien vers le dépôt](https://github.com/lea-giron/alfresco-docker) |
-| **Site Gymnastique** | Organisation de compétitions avec un modèle de données clair. | [Lien vers le dépôt](https://github.com/lea-giron/gymnastique) |
-| **Calculatrice JavaScript** | Calculatrice en HTML, CSS et JavaScript | [Lien vers le dépôt](https://github.com/Leaaaa55/Calculatrice) |
+| **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/LeaGiron/LeaGiron.github.io) |
+| **Calculatrice JavaScript** | Calculatrice en HTML, CSS et JavaScript | [Lien vers le dépôt](https://github.com/LeaGiron/Calculatrice) |
 
 ---
 
