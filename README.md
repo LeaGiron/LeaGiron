@@ -13,12 +13,18 @@
 - 🗓️ **Age :** 21 ans
 - 💡 **Formation actuelle :** BTS SIO (Option SLAM) à Nancy.  
 - 🌍 **Objectifs :** Obtenir un bachelor en concepteur développeur d'applications et un master dans ce domaine, créer et participer à des projets innovants.  
-- 💼 **En alternance :** Informagicienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
+- 💼 **En alternance :** Informaticienne en entreprise, toujours prête à apprendre et améliorer mes compétences.  
 - 🛠️ **Compétences techniques :**
-  - **Langages :** HTML, CSS, PHP, MySQL, JavaScript
+  - **Langages de programmation :** HTML, CSS, PHP
+  - **Base de données :** MySQL
+  - **Framework :** BootStrap
   - **Technologies :** Docker, Kali Linux, Alfresco
   - **Outils :** Git, phpMyAdmin, VS Code, VirtualBox
-- 🎯 **Focus actuel :** Frontend design moderne et backend robuste.  
+- 📘 **En cours d'apprentissage :**
+  - **Langages de programmation :** JavaScript
+  - **Bibliothèque :** React.js
+  - **Framework :** Tailwind CSS
+- 🎯 **Focus actuel :** Modélisation d'applications  
 
 ---
 
