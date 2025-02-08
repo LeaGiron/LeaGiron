@@ -47,11 +47,14 @@
 **JavaScript**  
 💗💗⬜⬜⬜⬜⬜⬜⬜⬜ 20%   
 
+**PHP**  
+💗💗💗⬜⬜⬜⬜⬜⬜⬜ 30%   
+
 ---
 
 ## 📊 Mes statistiques GitHub :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leaaaa55&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeaGiron&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
 </div>
 
 
