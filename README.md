@@ -23,7 +23,7 @@
 - 📘 **En cours d'apprentissage :**
   - **Langages de programmation :** JavaScript
   - **Bibliothèque :** React.js
-  - **Framework :** Tailwind CSS
+  - **Framework :** Vue.js
 - 🎯 **Focus actuel :** Modélisation d'applications  
 
 ---
