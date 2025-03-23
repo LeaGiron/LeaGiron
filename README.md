@@ -31,7 +31,7 @@
 ## 💖 Mes projets récents :
 | 🌸 Projet | ✨ Description | 🔗 Liens |
 |--------|-------------|-------|
-| **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/LeaGiron/Portfolio_Lea_Giron.github.io) |
+| **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/LeaGiron/Portfolio) |
 | **Calculatrice JavaScript** | Calculatrice en HTML, CSS et JavaScript | [Lien vers le dépôt](https://github.com/LeaGiron/Calculatrice) |
 
 ---
