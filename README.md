@@ -33,8 +33,8 @@
 |--------|-------------|-------|
 | **Portfolio personnel** | Une vitrine interactive de mes compétences et projets. | [Lien vers le dépôt](https://github.com/LeaGiron/Portfolio) |
 | **Calculatrice JavaScript** | Calculatrice en HTML, CSS et JavaScript | [Lien vers le dépôt](https://github.com/LeaGiron/Calculatrice) |
-| **Gestion d'une course** | Gestion d'une course sportive en HTML, CSS, PHP, MySQL | [Lien vers le dépôt](https://github.com/LeaGiron/gestion_course) |
-| **Gestion d'une course** | Gestion d'une course sportive en HTML, CSS, PHP, MySQL | [Lien vers le dépôt](https://github.com/LeaGiron/gestion-rdv-medical) |
+| **Gestion d'une course** | Gestion d'une course sportive en HTML, CSS, PHP, SQL | [Lien vers le dépôt](https://github.com/LeaGiron/gestion_course) |
+| **Gestion d'une course** | Gestion d'une course sportive en HTML, CSS, PHP, SQL | [Lien vers le dépôt](https://github.com/LeaGiron/gestion-rdv-medical) |
 
 ---
 
@@ -50,7 +50,10 @@
 💗💗⬜⬜⬜⬜⬜⬜⬜⬜ 20%   
 
 **PHP**  
-💗💗💗⬜⬜⬜⬜⬜⬜⬜ 30%   
+💗💗💗💗💗⬜⬜⬜⬜⬜ 50%  
+
+**SQL**  
+💗💗💗💗💗⬜⬜⬜⬜⬜ 50% 
 
 ---
 
